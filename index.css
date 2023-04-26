@@ -1,0 +1,77 @@
+h1{
+    color:orange;
+    text-align: center;
+    background-color: powderblue;
+}
+.title{
+    font-size: larger;
+    color:blue;
+}
+h2{
+    text-align: center;
+    font-size: x-large;
+    color: red;
+}
+.one{
+    font-size:larger;
+    text-align: center;
+}
+th{
+    text-align: center;
+    border-style:ridge;
+    color: blue;
+    
+}
+table{
+    text-align: center;
+    border-style: ridge;
+    width: 100%;
+    height: 30%;
+    
+}
+td{
+    text-align: center;
+    border-style: ridge;
+    
+}
+.two{
+    font-size: larger;
+}
+.three{
+    text-align: center;
+    color: blue;
+}
+.six{
+    text-align: center;
+    font-size: xx-large;
+}
+.five{
+    background-image: url(AI.jpg);
+}
+
+form{
+    text-align:center;
+    color:white;
+}
+.addr{
+    width: 40%;
+    height: 10%;
+}
+.city{
+    width: 10%;
+    height: 4%;
+}
+.state{
+    width: 10%;
+    height: 4%;
+}
+.count{
+    width: 10%;
+    height: 4%;
+}
+.sub{
+    color:red
+}
+li{
+    text-align: center;
+}
